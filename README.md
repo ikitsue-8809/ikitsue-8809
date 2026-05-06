@@ -31,7 +31,7 @@
 
 ---
 
-## 😏 Stack Technique
+## ⚔️ Stack Technique
 | Catégorie | Outils |
 |---|---|
 | 🌐 Front-end | HTML • CSS • JS • JSX |
@@ -41,7 +41,7 @@
 
 ---
 
-## 🗡️ Projets phares
+## 🍃 Projets phares
 | 🎯 Projet | 📜 Description | 🔥 Statut |
 |---|---|---|
 | **Site + App pour cs2 (les utilitaires)** | En cours de développement car grandes ambitions. | 🌘 |
@@ -51,7 +51,7 @@
 
 ---
 
-## 🔮 Expertise
+## 🌙 Expertise
 | Compétence | Niveau |
 |---|---|
 | 🐍 Python | ⭐⭐☆✰✰ |
@@ -63,21 +63,21 @@
 
 ## 🌐 Liens
 
-[![LinkBio](https://img.shields.io/badge/Link.bio-3B0050?style=for-the-badge&logo=linktree&logoColor=white)](https://lnk.bio/ikitsue)
-[![Discord](https://img.shields.io/badge/Discord-3B0050?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@ikitsue)
-[![Instagram](https://img.shields.io/badge/Instagram-3B0050?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ikitsue)
-[![TikTok](https://img.shields.io/badge/TikTok-3B0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ikitsue)
-[![X (Twitter)](https://img.shields.io/badge/X-3B0050?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ikitsue)
-[![Steam](https://img.shields.io/badge/Steam-3B0050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199385628123/)
+[![LinkBio](https://img.shields.io/badge/Link.bio-22080C?style=for-the-badge&logo=linktree&logoColor=white)](https://lnk.bio/ikitsue)
+[![Discord](https://img.shields.io/badge/Discord-22080C?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@ikitsue)
+[![Instagram](https://img.shields.io/badge/Instagram-22080C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ikitsue)
+[![TikTok](https://img.shields.io/badge/TikTok-22080C?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ikitsue)
+[![X (Twitter)](https://img.shields.io/badge/X-22080C?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ikitsue)
+[![Steam](https://img.shields.io/badge/Steam-22080C?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199385628123/)
 
 ---
 
 ## 👁️ Badges
 
-[![Python](https://img.shields.io/badge/Python-3B0050?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-3B0050?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Java-3B0050?style=flat-square&logo=java&logoColor=white)](https://www.java.com/fr/)
-[![JSX](https://img.shields.io/badge/JSX-3B0050?style=flat-square&logo=react&logoColor=white)](https://fr.legacy.reactjs.org/docs/introducing-jsx.html)
-[![Node.js](https://img.shields.io/badge/Node-3B0050?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/fr)
-[![Git](https://img.shields.io/badge/Git-3B0050?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![VSCode](https://img.shields.io/badge/VSCode-3B0050?style=flat-square&logo=visualstudio&logoColor=white)](https://code.visualstudio.com/)
+[![Python](https://img.shields.io/badge/Python-22080C?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-22080C?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-22080C?style=flat-square&logo=java&logoColor=white)](https://www.java.com/fr/)
+[![JSX](https://img.shields.io/badge/JSX-22080C?style=flat-square&logo=react&logoColor=white)](https://fr.legacy.reactjs.org/docs/introducing-jsx.html)
+[![Node.js](https://img.shields.io/badge/Node-22080C?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/fr)
+[![Git](https://img.shields.io/badge/Git-22080C?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![VSCode](https://img.shields.io/badge/VSCode-22080C?style=flat-square&logo=visualstudio&logoColor=white)](https://code.visualstudio.com/)
